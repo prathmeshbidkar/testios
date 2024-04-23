@@ -1,0 +1,11 @@
+{
+  "name": "uk69",
+  "displayName": "uk69",
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "e05ec8bd-d318-4179-a1c3-28aa3901684e"
+      }
+    }
+  }
+}
